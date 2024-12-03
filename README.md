@@ -21,12 +21,16 @@ I recently participated in the Maven Halloween Challenge and created a spooky ye
 
 # 🕵️‍♀️ What I Did:
 🔍 Explored a Halloween-themed dataset to uncover interesting patterns.
+
 📊 Designed visuals to present key insights in a fun and engaging way.
+
 🧙‍♂️ Used advanced DAX functions to filter and calculate metrics dynamically.
+
 🎨 Focused on aesthetics and usability to make the dashboard both informative and festive!
 
 # 🎁 Tools and Techniques:
 Advanced DAX: Crafting custom measures to meet challenge requirements.
+
 Interactive Design: Building slicers and dynamic visuals to let users explore the data.
 
 # Key Measures:
